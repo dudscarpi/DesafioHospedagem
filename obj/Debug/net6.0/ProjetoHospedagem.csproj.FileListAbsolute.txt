@@ -1,0 +1,14 @@
+E:\Estudos\DotNet\ProjetoHospedagem\bin\Debug\net6.0\ProjetoHospedagem.exe
+E:\Estudos\DotNet\ProjetoHospedagem\bin\Debug\net6.0\ProjetoHospedagem.deps.json
+E:\Estudos\DotNet\ProjetoHospedagem\bin\Debug\net6.0\ProjetoHospedagem.runtimeconfig.json
+E:\Estudos\DotNet\ProjetoHospedagem\bin\Debug\net6.0\ProjetoHospedagem.dll
+E:\Estudos\DotNet\ProjetoHospedagem\bin\Debug\net6.0\ProjetoHospedagem.pdb
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\ProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\ProjetoHospedagem.AssemblyInfoInputs.cache
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\ProjetoHospedagem.AssemblyInfo.cs
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\ProjetoHospedagem.csproj.CoreCompileInputs.cache
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\ProjetoHospedagem.dll
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\refint\ProjetoHospedagem.dll
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\ProjetoHospedagem.pdb
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\ProjetoHospedagem.genruntimeconfig.cache
+E:\Estudos\DotNet\ProjetoHospedagem\obj\Debug\net6.0\ref\ProjetoHospedagem.dll
